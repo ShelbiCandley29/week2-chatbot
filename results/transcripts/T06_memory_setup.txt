@@ -1,8 +1,0 @@
-PROMPT: Remember this: my favorite food is pizza.
-
-RESPONSE:
-Mock mode is ON. I can demonstrate memory and tool use.
-Try: 'What are the office hours?' or 'What is the weather in Dallas?' or 'Repeat what I asked earlier.'
-
-[latency_ms=109]
-

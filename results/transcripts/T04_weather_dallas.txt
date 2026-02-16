@@ -1,7 +1,0 @@
-PROMPT: What is the weather in Dallas?
-
-RESPONSE:
-Weather for Dallas: Sunny, 27°C.
-
-[latency_ms=146]
-

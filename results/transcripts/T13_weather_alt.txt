@@ -1,7 +1,0 @@
-PROMPT: weather in St. Louis
-
-RESPONSE:
-Weather for St. Louis: Sunny, 27°C.
-
-[latency_ms=157]
-

@@ -1,7 +1,0 @@
-PROMPT: grading
-
-RESPONSE:
-Projects 60%, Exams 30%, Participation 10%
-
-[latency_ms=22]
-

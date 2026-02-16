@@ -1,7 +1,0 @@
-PROMPT: office hours
-
-RESPONSE:
-Mon–Thu 2–4pm, Room 301
-
-[latency_ms=12]
-

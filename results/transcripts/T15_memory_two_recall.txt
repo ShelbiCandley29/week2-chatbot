@@ -1,7 +1,0 @@
-PROMPT: What did I say earlier?
-
-RESPONSE:
-You previously asked: I like pineapple on pizza.
-
-[latency_ms=24]
-
