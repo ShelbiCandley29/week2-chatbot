@@ -1,0 +1,7 @@
+PROMPT: What is the grading breakdown?
+
+RESPONSE:
+Projects 60%, Exams 30%, Participation 10%
+
+[latency_ms=22]
+

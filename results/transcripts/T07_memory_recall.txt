@@ -1,0 +1,7 @@
+PROMPT: Repeat what I asked earlier.
+
+RESPONSE:
+You previously asked: Remember this: my favorite food is pizza.
+
+[latency_ms=48]
+

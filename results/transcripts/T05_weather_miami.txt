@@ -1,0 +1,7 @@
+PROMPT: What is the weather in Miami?
+
+RESPONSE:
+Weather for Miami: Sunny, 27°C.
+
+[latency_ms=155]
+

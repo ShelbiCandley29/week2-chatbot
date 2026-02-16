@@ -1,0 +1,7 @@
+{
+  "task_success_pct": 100.0,
+  "avg_latency_ms": 129,
+  "num_tasks": 20,
+  "passed": 20,
+  "mode": "mock"
+}

@@ -1,0 +1,7 @@
+PROMPT: Summarize: FastAPI is a Python framework for building APIs quickly.
+
+RESPONSE:
+Summary: Summarize: FastAPI is a Python framework for building APIs quickly.
+
+[latency_ms=53]
+
